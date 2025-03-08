@@ -6,11 +6,38 @@ import project5 from "../assets/projects/project-4.jpg";
 import project6 from "../assets/projects/project-3.jpg";
 import project7 from "../assets/projects/project-2.jpg";
 
-export const HERO_CONTENT = `I am a passionate Front-End Developer with 4 years of experience specializing in React.js, UI/UX design, and building scalable web applications. I have successfully developed innovative projects like the Futo 1K financial assistance platform and the Student Library System, leveraging modern technologies to create user-friendly experiences.`;
+type HERO_CONTENT = string;
+type  ABOUT_TEXT = string;
+type EXPERIENCES =  {
+  year: string;
+  role: string;
+  company: string;
+  description: string;
+  technologies: string[];
+}
+type PROJECTS = ({
+  title: string;
+  image: string;
+  description: string;
+  technologies: string[];
+  link: string;
+} | {
+  title: string;
+  image: string;
+  description: string;
+  technologies: string[];
+  link?: undefined;
+})[]
+type CONTACT = {
+  address: string;
+  phoneNo: string;
+  email: string;
+}
+export const HERO_CONTENT : HERO_CONTENT = `I am a passionate Front-End Developer with 4 years of experience specializing in React.js, UI/UX design, and building scalable web applications. I have successfully developed innovative projects like the Futo 1K financial assistance platform and the Student Library System, leveraging modern technologies to create user-friendly experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated Front-End Developer with expertise in modern web technologies, including React.js, TypeScript, Tailwind CSS, and Vue.js. My focus is on building type-safe, scalable, and efficient web applications that enhance user experience. By leveraging TypeScript, I ensure code maintainability and reduce runtime errors, allowing for more robust application development. With a strong foundation in JavaScript, RESTful API integration, and state management, I develop modern, high-performance web solutions that address real-world challenges.`;
+export const ABOUT_TEXT : ABOUT_TEXT = `I am a dedicated Front-End Developer with expertise in modern web technologies, including React.js, TypeScript, Tailwind CSS, and Vue.js. My focus is on building type-safe, scalable, and efficient web applications that enhance user experience. By leveraging TypeScript, I ensure code maintainability and reduce runtime errors, allowing for more robust application development. With a strong foundation in JavaScript, RESTful API integration, and state management, I develop modern, high-performance web solutions that address real-world challenges.`;
 
-export const EXPERIENCES = [
+export const EXPERIENCES : EXPERIENCES[] = [
   {
     year: "2023 - Present",
     role: "Senior Full Stack Developer",
@@ -41,7 +68,7 @@ export const EXPERIENCES = [
   },
 ];
 
-export const PROJECTS = [
+export const PROJECTS : PROJECTS = [
   {
     title: "Futo 1K",
     image: project1,
@@ -92,7 +119,7 @@ export const PROJECTS = [
   },
 ];
 
-export const CONTACT = {
+export const CONTACT : CONTACT = {
   address: "No 1  FACEBOOK LODGE UMUCHIMA, OWERRI WEST, IMO STATE",
   phoneNo: "+2347046647941",
   email: "ezechibuezeernest@gmail.com",

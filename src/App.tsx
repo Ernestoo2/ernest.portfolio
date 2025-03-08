@@ -1,10 +1,10 @@
-import About from "@/components/About";
-import Contact from "@/components/Contact";
-import Experience from "@/components/Experience";
-import Hero from "@/components/Hero";
-import Navbar from "@/components/Navbar";
-import Projects from "@/components/Projects";
-import Technology from "@/components/Technology";
+import About from "./component/About";
+import Contact from "./component/Contact";
+import Experience from "./component/Experience";
+import Hero from "./component/Hero";
+import Navbar from "./component/Navbar";
+import Projects from "./component/Projects";
+import Technology from "./component/Technology";
 
 function App() {
   return (
