@@ -1,8 +1,6 @@
 import profilepic from "../assets/ErnestProfile.jpg";
 import { motion } from "framer-motion";
-import { FaNodeJs, FaReact } from "react-icons/fa";
 import { HERO_CONTENT } from "../constants/index";
-import { IconWrapper } from "./IcontWrapper";
 
 const Hero = () => {
   return (
