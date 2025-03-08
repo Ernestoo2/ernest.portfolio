@@ -5,6 +5,8 @@ import Hero from "./component/Hero";
 import Navbar from "./component/Navbar";
 import Projects from "./component/Projects";
 import Technology from "./component/Technology";
+import { Education } from "./component/Education";
+import { Training } from "./component/Training";
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
       <Navbar/>
       <Hero/>
       <About/>
+      <Education/>
+      <Training/>
       <Technology/>
       <Experience/>
       <Projects/>
