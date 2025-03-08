@@ -37,25 +37,7 @@ const Hero = () => {
               {HERO_CONTENT}
             </motion.p>
 
-            {/* Added Icons with IconWrapper */}
-            <div className="flex gap-4 mt-6">
-              <IconWrapper
-                icon={FaReact}
-                className="text-6xl text-cyan-400"
-                variants={{
-                  initial: { y: -10 },
-                  animate: { y: [10, -10], transition: { duration: 2, repeat: Infinity } }
-                }}
-              />
-              <IconWrapper
-                icon={FaNodeJs}
-                className="text-6xl text-green-500"
-                variants={{
-                  initial: { x: -10 },
-                  animate: { x: [10, -10], transition: { duration: 2, repeat: Infinity } }
-                }}
-              />
-            </div>
+            
           </div>
 
           <div className='w-full lg:w-1/2 lg:p-8'>
