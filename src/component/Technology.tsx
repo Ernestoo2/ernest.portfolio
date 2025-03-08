@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import { DiRedis } from "react-icons/di";
 import { FaNodeJs, FaPython } from "react-icons/fa";
