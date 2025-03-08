@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { PROJECTS } from "../constants/index";
 
-const Projects = () => {
+const Projects  = () => {
   return (
     <div className='pb-4 border-b border-neutral-900 '>
       <motion.h1
@@ -18,7 +18,6 @@ const Projects = () => {
           <motion.div
             initial={{ opacity: 0, x: -100 }}
             whileInView={{ opacity: 1, x: 0 }}
-
             transition={{ duration: 1 }}
             className='flex flex-wrap items-center justify-center mb-8'
             key={index}
@@ -37,11 +36,13 @@ const Projects = () => {
                 alt='project-images'
               />
             </motion.div>
+
             <motion.div
-              whileInView={{ opacity: 1, x:1 }}
-              initial={{ opacity: 0, x: -100}}
+              whileInView={{ opacity: 1, x: 0 }}  
+              initial={{ opacity: 0, x: -100 }}
               transition={{ duration: 1 }}
-              className='w-full mx-7 max-w-xl lg:w-3/4 '>
+              className='w-full mx-7 max-w-xl lg:w-3/4'
+            >
               <h6 className='mb-2 font-semibold'>{project.title}</h6>
               <p className='mb-4 text-neutral-400'>{project.description}</p>
               {project.technologies.map((tech, index) => (
@@ -56,13 +57,16 @@ const Projects = () => {
                 href={project.link}
                 target='_blank'
                 rel='noopener noreferrer'
-                className='block w-1/2 px-4 py-2 mt-4 text-center text-white bg-purple-900 rounded hover:bg-purple-400'>{project.title}</a>
+                className='block w-1/2 px-4 py-2 mt-4 text-center text-white bg-purple-900 rounded hover:bg-purple-400'
+              >
+                {project.title}
+              </a>
             </motion.div>
           </motion.div>
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Projects
+export default Projects;

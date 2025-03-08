@@ -6,16 +6,16 @@ import project5 from "../assets/projects/project-4.jpg";
 import project6 from "../assets/projects/project-3.jpg";
 import project7 from "../assets/projects/project-2.jpg";
 
-type HERO_CONTENT = string;
-type  ABOUT_TEXT = string;
-type EXPERIENCES =  {
+export type HERO_CONTENT = string;
+export type  ABOUT_TEXT = string;
+export type EXPERIENCES =  {
   year: string;
   role: string;
   company: string;
   description: string;
   technologies: string[];
 }
-type PROJECTS = ({
+export type PROJECTS = ({
   title: string;
   image: string;
   description: string;
@@ -28,7 +28,7 @@ type PROJECTS = ({
   technologies: string[];
   link?: undefined;
 })[]
-type CONTACT = {
+export type CONTACT = {
   address: string;
   phoneNo: string;
   email: string;
