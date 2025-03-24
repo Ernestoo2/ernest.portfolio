@@ -1,5 +1,5 @@
-import type { Config } from 'tailwindcss';
-import tailwindTypography from '@tailwindcss/typography';
+import tailwindTypography from "@tailwindcss/typography";
+import type { Config } from "tailwindcss";
 
 const config: Config = {
   content: [
@@ -7,7 +7,12 @@ const config: Config = {
     "./src/**/*.{js,ts,jsx,tsx}"
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'brush': ['"Brush Script MT"', 'cursive'],
+        'artistic': ['"Dancing Script"', 'cursive'],
+       },
+    },
   },
   plugins: [tailwindTypography],
 };
