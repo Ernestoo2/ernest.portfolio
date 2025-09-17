@@ -387,7 +387,6 @@ ProjectModal.displayName = 'ProjectModal';
 // Media Display Component
 const MediaDisplay = memo(({ 
   item, 
-  index, 
   onLoad, 
   isLoaded 
 }: { 
