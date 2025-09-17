@@ -1,0 +1,105 @@
+EZE ERNEST CHIBUEZE
+Phone Number: +2347046647941 
+Email: ezechibuezeernest@gmail.com | LinkedIn: https://www.linkedin.com/in/ernestoo2 
+Portfolio: https://ernest-portfolio-pi.vercel.app/
+Address: Plot 7, Flat 14, International secondary School Staff Quarters, Abia State University, Uturu, Abia state, Nigeria. 
+
+PROFESSIONAL SUMMARY
+
+Software Engineer and recent Engineering graduate with expertise in frontend development and system design. Built production-ready applications using Next.js, React.js, Node.js and MongoDB, Python, etc.
+Developed 5+ web applications, including a Student library management, FUTO-1k with Paystack integration, Railway transportation platform with Paystack integration, and an e-commerce website for the Xclusivekicks shoe brand. Completed ALX Software Engineering program and contributed to open-source projects like AsyncAPI. Seeking a frontend developer role to leverage problem-solving skills and technical expertise gained, and hands-on project experience.
+TECHNICAL SKILLS
+
+* Programming Languages: Typescript, JavaScript,Python, HTML5, CSS3
+* Frontend Frameworks: React.js, Next.js, JQuery, Bootstrap, Tailwind CSS, Styled css & SCSS
+* Backend Technologies: Node.js, RESTful APIs, Express.js 
+* Databases: MongoDB, PostgreSQL
+* Development Tools: Git, GitHub, VS Code, Cursor, npm, pnpm
+* Payment Integration: Paystack API
+* Cloud & Deployment: Vercel, Netlify
+* Version control: Git, GitHub collaborative workflows, Branching and Merging
+* Testing & Debugging: Browser DevTools, Postman, ThunderClient, GitHub Copilot, Stack Overflow
+* Engineering Software: MATLAB, Simulink, HOMER, AutoCAD, 
+PROJECTS
+
+ Xclusivekicks E-commerce Admin Website Live Demo: https://xclusivekicks-admin.vercel.app/ | GitHub: https://github.com/Ernestoo2/xclusivekicks-admin  Next.js, Node.js, Typescript | May 2025 – July 2025
+* Collaborated with the development team to build a product-ready e-commerce platform for shoe brand
+* Implemented using Next.js app-router for seamless page navigation and optimised performance
+* Developed API integration for database endpoints with responsive UI implementation
+* Built full CRUD operations system for comprehensive admin functionality
+* Designed responsive product management pages with optimised loading performance  
+* Collaborated with 4-person development team using Git version control
+Futo 1k – Student Financial Assistance Platform Live Demo: https://futoonek.vercel.app/ | GitHub: https://github.com/Ernestoo2/futoonek React.js, Tailwind CSS, React Router, MongoDB |  August 2024 – December 2024
+* Built a responsive web application connecting indigent students with financial donors and supporters
+* Implemented multi-page navigation using React Router with seamless user experience
+* Implemented Login and Signup for user profiling and MongoDB data base for storage and retrieval
+* Designed mobile-first interface with Tailwind CSS, achieving 95% responsive design score. 
+* Deployed production-ready application proposed to serve 100+ potential users.
+* Collaborated with 7-person development team using Git version control
+Railway Transportation System Live Demo: https://nextproject-trains.vercel.app/dashboard | GitHub: https://github.com/Ernestoo2/nextproject-trains  Next.js, MongoDB, Typescript, Paystack API |  October 2024 - December 2024
+* Built comprehensive train booking platform with user profiling, train scheduling, payment, and ticket generation
+* Integrated Paystack payment gateway for secure transaction processing
+* Developed user authentication and profile management features
+* Improved system operability by 15% through optimised UI/UX design
+* Collaborated with 3-person development team using Git version control
+Student Library Management System GitHub: https://github.com/Ernestoo2/student-library-system  React.js, MongoDB, Node.js, Express.js  |  December 2022 - March 2023
+* Developed Full-stack library management system for university course advisors 
+* Integrated MongoDB database for efficient student biodata storage and retrieval
+* Implemented regular expression search functionality for enhanced data filtering 
+* Created RESTful API endpoints for seamless frontend and database communication
+* Successfully presented and defended project to ALX Africa technical panel
+
+EXPERIENCE 
+
+Freelance Frontend Developer Xclusivekicks Shoe Brand | Remote | May 2024 - July 2024
+* Collaborated with 4-person development team to build production-ready e-commerce admin platform for client
+* Developed responsive admin dashboard using Next.js and TypeScript for inventory and order management
+* Implemented full CRUD operations for product management, user administration, and sales analytics
+* Integrated RESTful API endpoints for seamless database communication and real-time data updates
+* Delivered optimized admin interface with improved loading performance and mobile responsiveness
+* Managed client requirements and provided technical consultation throughout development lifecycle
+Software Engineer ALX Africa | Remote | February 2022 - March 2023
+* Completed comprehensive software engineering program covering Python, JavaScript, HTML, CSS, and database technologies
+* Built full-stack web applications using React.js, Node.js, and MongoDB with emphasis on frontend development
+* Developed student library management system with MongoDB integration and RESTful API endpoints
+* Practiced software development best practices including version control with Git and collaborative development
+* Gained expertise in web development frameworks, problem-solving methodologies, and technical documentation
+* Successfully defended capstone project demonstrating proficiency in full-stack development principles
+Frontend Developer Intern Terra Learning | Remote | February 2024 - May 2024
+* Developed responsive user interfaces using React.js for educational technology platform
+* Built student registration portal with React Router components and state management using hooks
+* Integrated frontend applications with RESTful APIs for course enrollment and user management systems
+* Collaborated with development team on digital skills training platform serving multiple learning tracks
+* Implemented responsive design principles ensuring cross-browser compatibility and mobile optimization
+* Contributed to codebase following established coding standards and Git workflow practices
+Engineering Intern Petroleum Teaching Institute | Effurun, Delta State | January 2024 - May 2024
+* Gained practical experience in electrical and electronic systems used in oil and gas operations
+* Trained on industrial equipment maintenance, troubleshooting, and safety protocols in petroleum environments
+* Worked with electrical control systems, instrumentation, and power distribution infrastructure
+* Developed understanding of SCADA systems and process control applications in industrial settings
+* Applied engineering principles to real-world petroleum facility operations and maintenance procedures
+* Enhanced technical skills in industrial automation and electrical system diagnostics
+EDUCATION 
+
+Bachelor of Engineering (B.Eng.) in Electrical and Electronics Engineering (Electronics and Computer Engineering)
+School of Engineering Systems and Engineering Technology
+Federal University of Technology Owerri | Imo state | December 2024
+GPA: 3.6 / 5.0
+Relevant Coursework: Computer Programming, Microprocessor Systems, Digital Electronics, Control Systems, Data Structures and Algorithms
+CERTIFICATIONS 
+
+ALX Software Engineering Certificate ALX Africa Url: https://drive.google.com/file/d/1MvrZfROylU3XnSyXW2YoZtrhvetBq-Gm/view?usp=drivesdk
+| 2023
+* Comprehensive full-stack development program covering frontend, backend, and database technologies
+* Specialized in React.js, Node.js, Python, and modern web development practices
+MATLAB Onramp Certification MathWorks Url: https://drive.google.com/file/d/1MvrZfROylU3XnSyXW2YoZtrhvetBq-Gm/view?usp=drivesdk | 2023
+* Demonstrated proficiency in MATLAB programming and computational problem-solving
+3MTT NITDA Certificate of Completion - AI/ML 3 Million Technical Talent (3MTT) Program| Url: https://drive.google.com/file/d/1E3ceuHgtbtuFRn_DKncchyccH0QY5GMv/view?usp=sharing  | 2024
+* Completed artificial intelligence and machine learning fundamentals training
+Frontend Web Development Certificate Terra Learning| Url: https://drive.google.com/file/d/1EEsDd9IjlRhq6yq8uxGNy2AkMjF-pf2S/view?usp=drive_link | 2024
+* Advanced training in React.js, modern JavaScript, and responsive web design principles
+JavaScript Essentials for Web Development Cisco | Url: https://drive.google.com/file/d/1E3ceuHgtbtuFRn_DKncchyccH0QY5GMv/view?usp=sharing | 2024
+* Comprehensive JavaScript programming and web development fundamentals
+Professional Memberships:
+* Graduate Member, Nigerian Society of Engineers (NSE) 
+* Graduate Member, Institute of Electrical and Electronics Engineers (IEEE)

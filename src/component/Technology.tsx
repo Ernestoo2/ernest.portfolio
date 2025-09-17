@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+import { motion } from "motion/react";
 import { DiRedis } from "react-icons/di";
 import { FaNodeJs, FaPython } from "react-icons/fa";
 import { RiReactjsLine } from "react-icons/ri";

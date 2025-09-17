@@ -9,9 +9,10 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
-        'brush': ['"Brush Script MT"', 'cursive'],
-        'artistic': ['"Dancing Script"', 'cursive'],
-       },
+        sans: ['Inter', 'sans-serif'],
+        artistic: ['"Dancing Script"', 'cursive'],
+        brush: ['"Brush Script MT"', 'cursive'],
+      },
     },
   },
   plugins: [tailwindTypography],

@@ -1,0 +1,67 @@
+Engr, EZE ERNEST CHIBUEZE
++2347046647941 | ezechibuezeernest@gmail.com | https://www.linkedin.com/in/ernestoo2 
+https://ernest-portfolio-pi.vercel.app/
+Plot 7, Flat 14, International secondary School Staff Quarters, Abia State University, Uturu, Abia state, Nigeria. 
+
+EDUCATION 
+* Bachelor of Engineering (B.Eng.) in Electrical and Electronics Engineering (Electronics and Computer Engineering)
+School of Engineering Systems and Engineering Technology
+Federal University of Technology Owerri | Imo state | December 2024
+GPA: 3.6 / 5.0	
+RESEARCH EXPERIENCE 
+* Undergraduate Research Assistant
+Electrical and Electronics Engineering Department, Federal University of Technology Owerri | Imo state | Feb 2025
+Supervisor: Engr. Samuel O. Okozi
+- Conducted load Estimations on EPE Department and analysed the Energy demand, which we simulated using MATLAB Simulink.
+- Component Sizing and installations.
+- Performance simulation using HOMER software tool to determine the most efficient energy configuration.
+- Contributed to manuscript preparation and presentations 
+SKILLS 
+ICT SKILLS: 
+- Microsoft Office Suite (Word, Excel, PowerPoint)
+- Technical report writing and engineering documentation standards 
+- Programming languages [Python, MATLAB Simulink, HOMER]
+TECHNICAL SKILLS 
+- Process instrumentations (pressure, temperature, flow, level transmitters)
+- Digital multimeters, oscilloscopes and function generator operations 
+- Calibration for process control instruments and signal conditioning
+- SCADA systems principles and HMI interface design
+- Motor control circuits and variable frequency drive principles 
+- Power distribution systems and electrical safety protocols 
+- Electronic component testing and circuit troubleshooting
+EXPERIENCE 
+	Process Control and plant operations:
+- Process Control Engineering: Studied Control system design for distillation operations, PID controller principles, and process variable regulation techniques.
+- Industrial Instrumentation: Learned operation principles of temperature transmitters, pressure sensors, flow meters, and level indicators used in refinery systems. 
+- Automatic Control Systems: Analyzed feedback control loop, system stability, and control strategies for continuous process operations.
+- Measurement and instrumentation: Gained knowledge in instrumentation calibration, maintenance procedures, and measurement accuracy requirements. 
+Plant Maintenance and Troubleshooting:
+- Electrical Machines and Power Systems: Studied motor operation, maintenance schedules and fault diagnosis techniques for industrial equipment.
+- Electrical Circuit Installations and Maintenance: Learned preventive maintenance procedures, troubleshooting methodologies, repair techniques for electrical systems.
+- Electrical Circuit Analysis: Acquired skills in circuit fault finding, component testing and repair procedures for control electronics.
+- Industrial Electronics: Studied power electronic devices, motor drives and electronic control systems maintenance. 
+Safety and Monitoring Systems:
+- Electrical Safety and Engineering: Learned hazardous area classification, explosion-proof equipment requirements, and safety compliance procedures.
+- Data Acquisition and Monitoring: Studied real-time monitoring systems, alarm management and data logging techniques for process plants
+- Engineering Documentation: Gained knowledge in technical report writing, maintenance record keeping and documentation standards.
+Computer Applications: 
+- Computer Programming: Learning programming for basic data analysis and report generation, and plant monitoring applications – in view
+- Microprocessor Systems: Studied embedded systems for process monitoring and control applications
+
+PROFESSIONAL DEVELOPMENT
+
+STRENGTHS 
+- Resilience and grit | Problem solving | Communication | Team – collaboration | Adaptability | Project management 
+CERTIFICATIONS AND TRAINING
+Industrial Attachment: Petroleum Teaching Institute Effurun Warri, Delta State | January 2024
+Professional Development Courses:
+- Process Safety Management | Coursera | 2024
+- Industrial Automation and Control | edX & YouTube | 2023 
+-  Data Analysis for Engineers | Udemy | 2025 etc
+Certifications: 
+- MATLAB onramp | MathWorks | 2023 - https://drive.google.com/file/d/1MvrZfROylU3XnSyXW2YoZtrhvetBq-Gm/view?usp=drivesdk
+- ALX Software Engineering | ALX Africa | 2023  - https://drive.google.com/file/d/1MvrZfROylU3XnSyXW2YoZtrhvetBq-Gm/view?usp=drivesdk
+
+Professional Memberships:
+       -       Graduate Member, Nigerian Society of Engineers (NSE) 
+       -         Graduate Member, Institute of Electrical and Electronics Engineers (IEEE)

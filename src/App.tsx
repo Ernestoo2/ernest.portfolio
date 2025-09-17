@@ -1,12 +1,13 @@
+import "./index.css";
 import About from "./component/About";
 import Contact from "./component/Contact";
+import Education from "./component/Education";
 import Experience from "./component/Experience";
 import Hero from "./component/Hero";
 import Navbar from "./component/Navbar";
 import Projects from "./component/Projects";
 import Technology from "./component/Technology";
-import { Education } from "./component/Education";
-import { Training } from "./component/Training";
+import Training  from "./component/Training";
 
 function App() {
   return (

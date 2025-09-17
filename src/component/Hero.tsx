@@ -1,5 +1,5 @@
 import profilepic from "../assets/ErnestProfile.jpg";
-import { motion } from "framer-motion";
+import { motion } from "motion/react";
 import { HERO_CONTENT } from "../constants/index";
 
 const Hero = () => {
